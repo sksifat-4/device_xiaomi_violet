@@ -262,7 +262,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     VioletCarrierConfig \
     VioletFrameworks \
-    VioletLauncher \
     VioletSettings \
     VioletSystemUI \
     VioletTelephony \
