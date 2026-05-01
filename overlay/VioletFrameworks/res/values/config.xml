@@ -475,8 +475,4 @@
 
     <!-- Switch to AVC 3.1 for screen recording. -->
     <string name="config_screenRecorderAVCProfileLevel" translatable="false">3.1</string>
-
-    <!-- Blur Optimization -->
-    <bool name="config_blurSupported">true</bool>
-    <integer name="config_maxBlurRadius">30</integer>
 </resources>

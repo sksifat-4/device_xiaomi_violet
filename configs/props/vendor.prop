@@ -80,13 +80,6 @@ ro.vendor.audio.sdk.fluencetype=fluence
 vendor.audio.feature.compr_voip.enable=true
 vendor.voice.path.for.pcm.voip=true
 
-# Blur Optimization
-debug.renderengine.blur_algorithm=kawase2
-ro.sf.blurs_are_expensive=1
-debug.sf.disable_backpressure=1
-debug.renderengine.backend=skiaglthreaded
-ro.surface_flinger.supports_background_blur=1
-
 # Bluetooth
 bluetooth.device.class_of_device=90,2,12
 bluetooth.hardware.power.operating_voltage_mv=3300
