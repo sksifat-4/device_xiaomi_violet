@@ -28,3 +28,11 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint="xiaomi/violet/violet:10/QKQ1.190915.002/V12.5.1.0.QFHINXM:user/release-keys"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Gapps
+WITH_GMS := true
+
+# Lunaris
+LUNARIS_BUILD_TYPE := OFFICIAL
+SURFACE_FLINGER_BOOST := true
+TARGET_ENABLE_BLUR := false

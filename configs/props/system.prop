@@ -22,6 +22,9 @@ media.stagefright.thumbnail.prefer_hw_codecs=true
 mmp.enable.3g2=true
 persist.mm.enable.prefetch=true
 
+# Lunaris Maintainer
+ro.lunaris.maintainer=achu
+
 # Radio
 ril.subscription.types=RUIM
 
