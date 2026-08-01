@@ -28,3 +28,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint="xiaomi/violet/violet:10/QKQ1.190915.002/V12.5.1.0.QFHINXM:user/release-keys"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Camera torch strength extension
+PRODUCT_PACKAGES += \
+    libcameraservice_extension.sm6150
